@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>CrosshairDesigner</AssemblyName>
+    <RootNamespace>CrosshairDesigner</RootNamespace>
+    <Version>1.0.0</Version>
+    <Authors>CrosshairDesigner</Authors>
+    <Description>A Windows virtual crosshair designer application</Description>
+  </PropertyGroup>
+
+</Project>
