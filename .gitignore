@@ -1,0 +1,28 @@
+```
+# Build artifacts
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.userprefs
+*.cache
+*.log
+
+# Dependencies
+packages/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuration files
+app.config
+```
